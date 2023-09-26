@@ -1,0 +1,32 @@
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color:rgb(222, 222, 222);
+    border-radius: 30px;
+    padding: 8px;
+    margin-top: 20px;
+    height: 50px;
+    width: 100%;
+    min-width: 300px;
+}
+.nowForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-left: auto;
+    
+    /* margin-top: -2px; */
+    height: 35px;
+    width: 100px;
+    min-width: 70px;
+     /* justify-content: right; */
+    /* margin-top: 20px; */
+    /* justify-items: right; */
+    /* width: 100%;
+    border-color: rgb(239, 239, 239); */
+
+}
