@@ -1,6 +1,6 @@
 import React from "react";
-import TopInfo from "./components/TopInfo";
-import WhereToForm from "./components/WhereToForm";
+import TopInfo from "./Home/components/TopInfo"
+import WhereToForm from "./Home/components/WhereToForm";
 function App() {
   return (
     <div>

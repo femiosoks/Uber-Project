@@ -6,8 +6,8 @@ import {
 
 import './index.css';
 import App from './App';
-import Map from './Pages/Map';
-import DestinationPage from './Pages/DestinationPage';
+import Map from './Map/Map';
+import DestinationPage from './Destination/component/DestinationPage';
 
 const router = createBrowserRouter([
     {

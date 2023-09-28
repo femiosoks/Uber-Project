@@ -1,5 +1,5 @@
 import React from 'react'
-import WhereToForm from '../components/WhereToForm'
+import WhereToForm from '../Home/components/WhereToForm'
 
 function Map() {
   return (
