@@ -15,7 +15,7 @@ const router = createBrowserRouter([
         element: <App />,
     },
     {
-        path: "/whereto",
+        path: "/Destination",
         element: <DestinationPage />,
     },
     {

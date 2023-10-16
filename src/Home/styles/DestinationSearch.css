@@ -8,6 +8,7 @@
     padding: 8px;
     margin-top: 20px;
     height: 50px;
+    font: "40px";
     width: 100%;
     min-width: 300px;
 }
@@ -18,7 +19,6 @@
     background-color:rgb(255, 255, 255);
     border-radius: 20px;
     margin-left: auto;
-    
     /* margin-top: -2px; */
     height: 35px;
     width: 100px;
