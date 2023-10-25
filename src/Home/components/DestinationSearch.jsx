@@ -6,21 +6,13 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faMagnifyingGlass, faClock, faAngleDown } from '@fortawesome/free-solid-svg-icons'
 
 export default function DestinationSearch() {
-    const handleClick = () => {
-        <Link to={"/whereto"}></Link>
 
-
-    }
     const handleNowClick = (event) => {
         event.stopPropagation();
         console.log("I clicked now")
     }
-
-
     return (
-
-
-        <form className='form'>
+     <form className='form'>
             <Link to={"/Destination"}>
                 <FontAwesomeIcon icon={faMagnifyingGlass} className={css(styles.searchIcon)} />
                 Where to?
@@ -33,15 +25,8 @@ export default function DestinationSearch() {
 
             </form>
         </form>
-
-
-
-
-
     )
-
 }
-
 <Link to={"/whereto"}></Link>
 
 const styles = StyleSheet.create({

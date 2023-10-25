@@ -6,6 +6,9 @@
     align-items: center;
     background-color: rgb(222, 222, 222);
     height: 30px;
+   width: 100%;
+    min-width: 50%;
+
 }
 
 .toForm{
@@ -17,6 +20,8 @@
     background-color: rgb(222, 222, 222);
     height: 30px;
     margin-top: 10px;
+    width: 100%;
+    min-width: 50%;
 }
 
 .addStop{
